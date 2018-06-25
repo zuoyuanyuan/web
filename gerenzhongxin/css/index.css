@@ -199,7 +199,7 @@ a{
 	float:left;
 	margin-left: 43px;
 	color:#000000;
-	margin-top: 21px;
+	margin-top: 12px;
 }
 .ac23{
 	width:196px;
@@ -213,6 +213,7 @@ a{
 	float: left;
 	color: #ffffff;
 	padding-top: 12px;
+	padding-left: 0px;
 }
 .ac24{
 	width:196px;
@@ -220,7 +221,14 @@ a{
 	margin-top: 10px;
 	background-color: #ffffff;
 }
-
+.ac24 li{
+	height:256px;
+	font-family:微软雅黑;
+	float:left;
+	margin-left: 43px;
+	color:#000000;
+	margin-top: 10px;
+}
 
 /*侧边栏结束*/
 
@@ -253,9 +261,40 @@ a{
 
 .ac32{
 	width:991px;
-	height:160px;
+	height:100px;
 	background-color: #ffffff;
 }
+
+.ac321{
+	width:190px;
+	height:30px;
+	background-color:red;
+	text-align:center;
+	border-radius:5px;
+	font-size:16px;
+	font-family:微软雅黑;
+	color: #ffffff;
+	padding-top: 7px;
+	margin-left:206px;
+	margin-top: 62px;
+}
+.ac322{
+	width:190px;
+	height:30px;
+	background-color:red;
+	text-align:center;
+	border-radius:5px;
+	font-size:16px;
+	font-family:微软雅黑;
+	color: #ffffff;
+	padding-top: 7px;
+	margin-left:594px;
+	margin-top: -37px;
+}
+
+
+
+
 
 
 .ac33{
@@ -275,10 +314,22 @@ a{
 
 .ac34{
 	width:991px;
-	height:160px;
+	height:100px;
 	background-color: #ffffff;
 }
-
+.ac341{
+	width:190px;
+	height:30px;
+	background-color:red;
+	text-align:center;
+	border-radius:5px;
+	font-size:16px;
+	font-family:微软雅黑;
+	color: #ffffff;
+	padding-top: 7px;
+	margin-left:206px;
+	margin-top: 62px;
+}
 
 .ac35{
 	width:985px;
@@ -297,9 +348,24 @@ a{
 
 .ac36{
 	width:991px;
-	height:160px;
+	height:100px;
 	background-color: #ffffff;
 }
+.ac361{
+	width:190px;
+	height:30px;
+	background-color:red;
+	text-align:center;
+	border-radius:5px;
+	font-size:16px;
+	font-family:微软雅黑;
+	color: #ffffff;
+	padding-top: 7px;
+	margin-left:206px;
+	margin-top: 62px;
+}
+
+
 
 /*内容结束*/
 
